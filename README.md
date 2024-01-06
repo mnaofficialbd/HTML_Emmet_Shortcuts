@@ -8,3 +8,10 @@
     <li></li>
   </ul>
 </nav>
+
+**2-Siblings**
+`main+h1+p`
+
+<main></main>
+<h1></h1>
+<p></p>
