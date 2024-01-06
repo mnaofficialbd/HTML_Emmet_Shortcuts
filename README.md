@@ -16,3 +16,6 @@
 
 **5-Grouping**
 `body>(header>nav)`
+
+**6-Ids & Classes**
+`h1.heading+div#box`
