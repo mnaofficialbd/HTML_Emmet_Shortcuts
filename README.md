@@ -7,3 +7,6 @@
 
 **2-Siblings**
 `main+h1+p`
+
+**3-Multiplication**
+`ul>li*3`
